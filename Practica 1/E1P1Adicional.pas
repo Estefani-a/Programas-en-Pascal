@@ -19,7 +19,7 @@ begin
       if(num<min2)then
         min2:=num;
   end;
-  //La informacion de maximos y minimos siempre van fuera de la estructura de control
+
   writeln(max);//Nro mas grande
   WriteLn(min2);//Nro siguiente
   WriteLn(min1); //Nro mas chico
